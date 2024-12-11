@@ -9,6 +9,27 @@ under imperfect and incomplete information. The primary goal is to determine
 whether AI can effectively analyze and "solve" such games by simulating
 human-like decision-making and interactions.
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Game Description](#game-description)
+3. [Key Features](#key-features)
+    - [Agents](#agents)
+        - [AI-Based Agents](#ai-based-agents)
+        - [Non-AI Agents](#non-ai-agents)
+    - [Search Algorithms](#search-algorithms)
+    - [Visualization](#visualization)
+4. [Code Structure and Key Components](#code-structure-and-key-components)
+    - [Core Game Logic](#core-game-logic)
+    - [Role-Specific Logic](#role-specific-logic)
+    - [Agent Framework](#agent-framework)
+    - [Observations and Decision Systems](#observations-and-decision-systems)
+    - [Map and Movement](#map-and-movement)
+    - [Configuration](#configuration)
+    - [Visualization](#visualization-1)
+    - [Training and Model Storage](#training-and-model-storage)
+5. [Supporting Materials](#supporting-materials)
+6. [How to Run](#how-to-run)
+
 ## Game Description
 
 *Among Us* is a multiplayer social deduction game where players are divided
