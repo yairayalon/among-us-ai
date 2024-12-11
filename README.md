@@ -17,7 +17,6 @@ This project incorporates a range of agents, divided into **AI-Based Agents** an
 #### AI-Based Agents
 1. **Neural Network Agents**:
    - Use neural networks to process gameplay data and make decisions based on patterns learned from observations.
-   - Separate neural networks are designed for Crewmate and Impostor roles, optimizing their behaviors and strategies over time.
 2. **Probabilistic Graphical Model Agents**:
    - Apply Bayesian reasoning to analyze probabilities and select optimal actions in uncertain situations.
 
