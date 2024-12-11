@@ -39,6 +39,7 @@ The project is implemented in Python with a modular architecture. Key components
 - **`Main.py`**: Entry point for initializing and running the game.
 - **`GameFlow.py`**: Base class defining game flow mechanics, such as task assignments and turn management.
 - **`GameRunner.py`**: Oversees the overall execution of the game, orchestrating interactions between components.
+- **`GameRunnerHelper.py`**: A utility class supporting `GameRunner.py` with various helper functions for processing game settings, agent navigation, and observation data.
 - **`VoteFlow.py`**: Manages voting logic during discussions, helping agents decide whom to vote against.
 
 ### Role-Specific Logic
@@ -60,6 +61,7 @@ The project is implemented in Python with a modular architecture. Key components
 
 ### Configuration
 - **`Parser.py`**: Parses the `example.json` configuration file containing game settings and converts it into a Python dictionary used to create the game board.
+- **`Constants.py`**: Stores global constants and configuration parameters used throughout the project.
 
 ### Visualization
 - **`BoardGUI.py`**: Provides a visual representation of the game board and ongoing interactions.
