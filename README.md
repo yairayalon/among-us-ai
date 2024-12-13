@@ -1,8 +1,8 @@
-# AI-MONG US: Find the AI-Mpostor
+# AI-mong Us: Can AI Outsmart the Social Deduction Game?
 
 ## Overview
 
-AI-MONG US is a project inspired by the popular social deduction game *Among
+AI-mong Us is a project inspired by the popular social deduction game *Among
 Us*. It explores the use of artificial intelligence (AI) to tackle games that
 incorporate psychological and sociological elements, where players operate
 under imperfect and incomplete information. The primary goal is to determine
