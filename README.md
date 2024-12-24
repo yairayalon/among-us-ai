@@ -106,7 +106,8 @@ The project is implemented in Python with a modular architecture. Key components
 
 ## Supporting Materials
 
-The **[Project Portfolio](./Project%20Portfolio.pdf)** document provides an in-depth explanation of the project's goals, methodology, challenges, and results. It serves as a comprehensive resource for understanding the reasoning and implementation behind the project.
+The **[Project Portfolio](./Project%20Portfolio.pdf)** document provides an 
+in-depth explanation of the project's goals, methodology, challenges, and results. It serves as a comprehensive resource for understanding the reasoning and implementation behind the project.
 
 ## How to Run
 
